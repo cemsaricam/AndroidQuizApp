@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">GEOINUS</string>
+
+    <string-array name="study_titles">
+        <item>Capital City of Canada</item>
+        <item>Land of the Midnight Sun</item>
+        <item>Ancient City of Machu Picchu</item>
+        <item>Land of the Rising Sun</item>
+        <item>Smallest Ocean in Area and Volume</item>
+        <item>Roof of the World</item>
+        <item>Highest Peak in the Alps</item>
+        <item>Most populous Country in Europe?</item>
+        <item>Highest Mountain in Japan</item>
+        <item>Ancient City of Petra</item>
+        <item>Arctic Circle and Polar Day-Night Cycle</item>
+        <item>Temperature Variations in Eastern and Western Europe</item>
+        <item>Polders: Reclaimed Land from the Sea</item>
+        <item>Tropic of Cancer</item>
+        <item>Formation of Rift Valley: Tectonic Plate Activity</item>
+        <item>Geographical Location of the Pyrenees Mountains</item>
+        <item>Lake Baikal: World\'s Deepest Freshwater Lake</item>
+        <item>Vietnam\'s Geographical Location in Southeast Asia</item>
+        <item>The Pacific Ring of Fire: Hotbed of Earthquakes and Volcanic Activity</item>
+        <item>The Gobi Desert: A Pivotal Geographic Marvel in Asia</item>
+
+    </string-array>
+
+    <string-array name="study_info_texts">
+        <item>Ottawa, the capital city of Canada, is a vibrant metropolis known for its historical landmarks, cultural diversity, and governmental institutions. Situated in the eastern part of the Ontario province, Ottawa plays a crucial role in Canada\'s political landscape.</item>
+        <item>Norway, known as the Land of the Midnight Sun, experiences extended daylight hours during the summer months due to its high latitude. This phenomenon makes Norway a unique destination with breathtaking landscapes and natural wonders.</item>
+        <item>Machu Picchu, located in Peru, is an ancient Incan city known for its architectural marvels and breathtaking mountainous surroundings. Nestled high in the Andes, Machu Picchu is a UNESCO World Heritage Site and a testament to the ingenuity of Inca civilization.</item>
+        <item>Japan, known as the Land of the Rising Sun, is an island nation in East Asia with a rich cultural heritage and modern technological advancements. This unique country, positioned in the east, is where the sun is first seen each day, symbolizing its traditional name.</item>
+        <item>The Arctic Ocean is the smallest ocean in terms of both area and volume, covering the region around the North Pole. Known for its icy expanses, the Arctic Ocean plays a crucial role in the Earth\'s climate system.</item>
+        <item>The Taklamakan Desert, often called the Roof of the World, is a vast desert in Central Asia known for its shifting sands and extreme climate. Covering a significant part of the Tarim Basin, this desert presents a challenging environment for explorers.</item>
+        <item>Mont Blanc, the highest peak in the Alps mountain range, is a challenging destination for mountaineers and offers breathtaking views of the surrounding region. Situated on the border of France and Italy, Mont Blanc is a symbol of alpine beauty and adventure.</item>
+        <item> Germany stands out as the most populous country in Europe. Positioned at the heart of the continent, Germany boasts not only a large population but also a pivotal role in shaping the cultural, economic, and political dynamics of Europe.</item>
+        <item>Mt. Fuji, the highest mountain in Japan, is an iconic symbol of the country and a popular destination for climbers and tourists. This majestic peak stands as a testament to Japan\'s natural beauty and attracts visitors from around the world.</item>
+        <item>Petra, located in Jordan, is an ancient city famous for its rock-cut architecture and historical significance as a trade and cultural hub. Carved into rose-red cliffs, Petra\'s structures showcase the engineering marvels of ancient civilizations.</item>
+        <item>North of the Arctic Circle, particularly during the winter months, experiences phenomena known as polar night, where the sun remains below the horizon for an extended period, causing continuous darkness. Conversely, during summer, the region encounters polar day, characterized by the sun never setting, providing uninterrupted daylight.</item>
+        <item>Eastern Europe generally tends to have colder temperatures compared to Western Europe. This temperature contrast can be attributed to various geographical and climatic factors influencing the respective regions.</item>
+        <item>A polder refers to land that has been reclaimed from the sea, often through the use of dikes and drainage systems. These reclaimed areas are typically converted into fertile farmland, serving as a testament to human efforts to modify and utilize the natural landscape for agricultural purposes.</item>
+        <item>The Tropic of Cancer, positioned at approximately 23.5 degrees north latitude, encompasses a region characterized by a tropical climate. This climatic zone is distinguished by consistently warm and humid conditions throughout the year, with distinct wet and dry seasons.</item>
+        <item>The Rift Valley is a geological structure formed due to the gradual splitting or cracking of the Earth\'s crust along tectonic plate boundaries. This process leads to the creation of a valley, often accompanied by significant geological and topographical changes.</item>
+        <item>The Pyrenees Mountains are situated on the border between France and Spain, forming a natural boundary between these two European countries.</item>
+        <item>Lake Baikal, located in Siberia, Russia, is renowned as the deepest freshwater lake globally. Its remarkable depth and unique ecosystem contribute to its significance as a natural wonder.</item>
+        <item>Vietnam is a Southeast Asian country situated on the eastern part of the Indochinese Peninsula.</item>
+        <item>The Pacific Ring of Fire is a region encircling the Pacific Ocean known for its intense seismic and volcanic activity. This area is characterized by a high concentration of earthquakes and numerous active volcanoes, forming a dynamic and geologically significant zone.</item>
+        <item>The Gobi Desert stands as a crucial geographic feature as the largest desert on the Asian continent. Encompassing a vast expanse, it extends over the interior regions of northern China and southern Mongolia.</item>
+    </string-array>
+</resources>
